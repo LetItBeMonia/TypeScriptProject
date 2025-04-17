@@ -1,14 +1,24 @@
-#img {
-  display: block;
-  margin: auto;
-  height: 128px;
-  width: 128px;
-  padding: 2rem;
+.main-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
 
-#canvas {
+#list {
+  list-style: none; 
+  padding: 0;
+  width: 250px;
+}
+
+#li {
+  display: flex;
+  width: 100%;
+}
+
+label {
   display: block;
-  margin: 2rem auto;
-  width: 540px;
-  height: 540px;
+  word-wrap: break-word;
+  white-space: normal;
 }
