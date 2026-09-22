@@ -1,4 +1,4 @@
-# To-Do List - TypeScript Application
+# To-Do List | TypeScript Application
 
 ## App's functionalities:
 - Creating new tasks and adding them to the list
