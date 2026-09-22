@@ -6,7 +6,9 @@
 - Storing tasks in local storage (restoring tasks after page reload)
 
 ## Technologies and concepts used:
-- Custom TS types
-- Optional chaining
+- TypeScript:
+  - Custom TS types
+  - Optional chaining
 - Generating unique task IDs and creation timestamps
+- Empty task validation
 - Dynamic DOM manipulation
