@@ -9,6 +9,7 @@
 - TypeScript:
   - Custom TS types
   - Optional chaining
+  - Function's typing
 - Generating unique task IDs and creation timestamps
 - Empty task validation
 - Dynamic DOM manipulation
