@@ -1,3 +1,12 @@
-# TODO List TypeScript App
+# To-Do List - TypeScript Application
 
-Application made to learn TypeScript.
+## App's functionalities:
+- Creating new tasks and adding them to the list
+- Marking tasks as completed
+- Storing tasks in local storage (restoring tasks after page reload)
+
+## Technologies and concepts used:
+- Custom TS types
+- Optional chaining
+- Generating unique task IDs and creation timestamps
+- Dynamic DOM manipulation
