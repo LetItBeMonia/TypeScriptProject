@@ -9,6 +9,7 @@
 - TypeScript:
   - Custom TS types
   - Function's typing
-- Generating unique task IDs and creation timestamps
+- Generating unique task IDs
+- Task creation timestamps
 - Empty task validation
 - Dynamic DOM manipulation
